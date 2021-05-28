@@ -1,1 +1,1 @@
-# bot discord serveur strem
+# bot discord serveur streem
